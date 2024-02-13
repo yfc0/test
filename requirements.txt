@@ -1,0 +1,7 @@
+sqlalchemy[asyncio]
+asyncpg
+sqlalchemy-utils
+fastapi[all]
+uvicorn[standart]
+alembic
+python-jose[cryptogaphy]

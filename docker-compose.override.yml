@@ -1,0 +1,6 @@
+services:
+  rest:
+    volumes:
+      - ./src:/app/
+    ports:
+      - "9000:9000"
